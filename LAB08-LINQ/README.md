@@ -5,6 +5,8 @@ Take in a JSON file and answer the following "questions":
 3. Remove the Duplicates
 4. Rewrite the queries from above, and consolidate all into one single query.
 5. Rewrite at least one of these questions only using the opposing method (example: Use LINQ instead of a Lambda and vice versa.)
+6.
 
 ##Output
 ![LINQ Output](https://github.com/KKetter/Lab03-Word-Guess/blob/gameLogic/Lab03-Word-Guess/Assets/LINQ.PNG)
+
